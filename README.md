@@ -29,8 +29,8 @@ The Image Encryption Project is an innovative cybersecurity endeavor designed to
 2. Navigate to the project directory:
    cd Image_Encryption
 3. Install required libraries:
-   pip install PIL
-   pip install cryptography
+   1. pip install PIL
+   2. pip install cryptography
 4. Run the script:
    python Image_Encryption.py
    
